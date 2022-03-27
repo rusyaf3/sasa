@@ -1,13 +1,13 @@
 {
-  "name": "بـوت جـمثون",
-  "description": "بـوت جمثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @JMTHON ",
-  "logo": "https://telegra.ph/file/5f6ef13851dcf0d6fc72b.jpg",
+  "name": "تليثون سيلفا",
+  "description": "مرحبا بك انت الان في اخر خطوه لتنصيب سورس سيلفا العربي و الاول في مصر :@TEAM_SELVA ",
+  "logo": "https://telegra.ph/file/a607f72a5e8d8514a5170.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/JMTHON-AR/jmthon",
+  "repository": "https://github.com/GOIUAL/SelVa",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,12 +61,12 @@
     },
     "TZ": {
       "description": "هنـا ضع المنطقه الزمنية الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "jmthonar",
+      "value": "https://github.com/GOIUAL/SelVa",
       "required": false
     }
   },
