@@ -1,2 +1,2 @@
 # sasa
-# [sezr](https://tm.ttccs)
+# [sezr](https://tm.ttccss)
