@@ -1,13 +1,13 @@
 {
-  "name": "تليثون سيلفا",
+  "name": "تليثون ريبورتر",
   "description": "مرحبا بك انت الان في اخر خطوه لتنصيب سورس سيلفا العربي و الاول في مصر :@TEAM_SELVA ",
-  "logo": "https://telegra.ph/file/a607f72a5e8d8514a5170.jpg",
+  "logo": "https://telegra.ph/file/bfde9a952eacdcaab3d8d.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/GOIUAL/SelVa",
+  "repository": "https://github.com/rusyaf3/REBORTER",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -66,7 +66,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "https://github.com/GOIUAL/SelVa",
+      "value": "https://github.com/rusyaf3/REBORTER",
       "required": false
     }
   },
